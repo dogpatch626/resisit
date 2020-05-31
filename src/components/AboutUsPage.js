@@ -49,7 +49,7 @@ export default class AboutUsPage extends Component {
               This is a static dump of many websites known and trusted. Please
               help me expand this and continue to spread usefull sites. Remember
               watch your surroundings when protesting the police DO infiltrate
-              and aggrivate crouds.
+              and aggrivate crowds.
             </h2>
           </div>
           {/* broken strides end  */}
