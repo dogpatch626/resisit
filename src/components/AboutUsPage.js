@@ -45,7 +45,12 @@ export default class AboutUsPage extends Component {
           {/* broken strdes begin  */}
           <div className="col-lg-4 col-12 my-3">
             <h1 className="description"></h1>
-            <h2>This is a static dump of many websites known and trusted. </h2>
+            <h2>
+              This is a static dump of many websites known and trusted. Please
+              help me expand this and continue to spread usefull sites. Remember
+              watch your surroundings when protesting the police DO infiltrate
+              and aggrivate crouds.
+            </h2>
           </div>
           {/* broken strides end  */}
           <div className="col-lg-4 col-12 my-3">
@@ -54,25 +59,7 @@ export default class AboutUsPage extends Component {
               <li>
                 <a href="https://unicornriot.ninja/">Unicorn Riot</a>
               </li>
-              <a href="https://minnesotafreedomfund.org/">
-                George Floyd Memorial
-              </a>
-
-              <li>
-                <a href=" https://www.blackvisionsmn.org/">
-                  Black vision Collective
-                </a>
-              </li>
-              <li>
-                <a href="  https://www.reclaimtheblock.org/home">
-                  Reclaim The Block
-                </a>
-              </li>
-              <li>
-                <a href="   https://www.joincampaignzero.org/#vision">
-                  Reclaim The Block
-                </a>
-              </li>
+              <a href="https://www.cnn.com/">CNN</a>
             </ul>
           </div>
         </div>
