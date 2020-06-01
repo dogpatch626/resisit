@@ -21,7 +21,7 @@ export default class AboutUsPage extends Component {
                 </a>
               </li>
               <a href="https://minnesotafreedomfund.org/">
-                George Floyd Memorial
+                Minnesota Freedom Fund
               </a>
 
               <li>
