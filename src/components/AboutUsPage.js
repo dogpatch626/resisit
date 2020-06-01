@@ -39,6 +39,24 @@ export default class AboutUsPage extends Component {
                   Join Campaign Zero
                 </a>
               </li>
+              <li>
+                <b>
+                  <a href="   https://brooklynbailfund.org/donation-form">
+                    Brooklyn Bail Fund
+                  </a>
+                </b>
+              </li>
+              <li>
+                <a href="    https://www.naacpldf.org/">
+                  NAACP Legal Defense and Educational Fund
+                </a>
+              </li>
+              <li>
+                <a href="   https://linktr.ee/freedomartsmovement">
+                  Freedom arts movement link tree.
+                </a>
+                contains various links with information
+              </li>
             </ul>
           </div>
           {/*  end  */}
