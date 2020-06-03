@@ -1,3 +1,8 @@
+heroku buildpack https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack
+no node js backend just static react site 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
