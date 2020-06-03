@@ -57,6 +57,24 @@ export default class AboutUsPage extends Component {
                 </a>
                 contains various links with information
               </li>
+              <li>
+                <a href=" https://www.change.org/p/louisville-mayor-greg-fischer-justice-for-david-mcatee?recruiter=914531230&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_initial&recruited_by_id=c58fdab0-e91e-11e8-b927-d16921f243b0">
+                  Justice for David McAtee
+                </a>
+                contains various links with information
+              </li>
+              <li>
+                <b>THIS IS IMPORTANT MASTER DOC</b>
+                <a href="    https://docs.google.com/document/u/1/d/1CjZMORRVuv-I-qo4B0YfmOTqIOa3GUS207t5iuLZmyA/mobilebasic">
+                  Natl Resource List #GeorgeFloyd+
+                </a>
+                contains various links with information
+              </li>
+              <li>
+                <a href="https://www.gofundme.com/f/vwzdk-fordham">
+                  Help Fordham Local Buisness
+                </a>
+              </li>
             </ul>
           </div>
           {/*  end  */}
@@ -78,6 +96,11 @@ export default class AboutUsPage extends Component {
                 <a href="https://unicornriot.ninja/">Unicorn Riot</a>
               </li>
               <a href="https://www.cnn.com/">CNN</a>
+              <li>
+                <a href=" https://youtu.be/bCgLa25fDHM">
+                  "How to financially help BLM vid"
+                </a>
+              </li>
             </ul>
           </div>
         </div>
