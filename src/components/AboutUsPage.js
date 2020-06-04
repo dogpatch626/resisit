@@ -3,26 +3,31 @@ import React, { Component } from "react";
 export default class AboutUsPage extends Component {
   render() {
     return (
-      <div
-        className="text-center"
-        style={{ paddingTop: "120px", paddingBottom: "150px" }}
-      >
-        <h2 style={{ height: "100px" }}></h2>
+      <div className="container">
 
         <div className="row pt-5">
           <div className="col-lg-4 col-12 my-3">
-            {/*  */}
 
-            <h1>{"<Links for Donations>"} </h1>
-            <ul>
+            <h1 className="sub-title">Donation Links</h1>
+            <hr className="tiny-hr"></hr>
+            <ul className="d-link">
               <li>
                 <a href="https://www.gofundme.com/f/GEORGEFLOYD">
                   George Floyd Memorial
                 </a>
               </li>
+
+              <li>
               <a href="https://minnesotafreedomfund.org/">
-                George Floyd Memorial
+                Minnesota Freedom Fund (Bailout)
               </a>
+              </li>
+
+              <li>
+                <a href="https://www.gofundme.com/f/saving-fordham-looted-small-businesses">
+                  Saving Fordham
+                </a>
+              </li>
 
               <li>
                 <a href=" https://www.blackvisionsmn.org/">
@@ -36,15 +41,15 @@ export default class AboutUsPage extends Component {
               </li>
               <li>
                 <a href="   https://www.joincampaignzero.org/#vision">
-                  Join Campaign Zero
+                  Campaign Zero
                 </a>
               </li>
               <li>
-                <b>
+                
                   <a href="   https://brooklynbailfund.org/donation-form">
                     Brooklyn Bail Fund
                   </a>
-                </b>
+              
               </li>
               <li>
                 <a href="    https://www.naacpldf.org/">
@@ -53,9 +58,9 @@ export default class AboutUsPage extends Component {
               </li>
               <li>
                 <a href="   https://linktr.ee/freedomartsmovement">
-                  Freedom arts movement link tree.
+                  Freedom Arts Movement 
                 </a>
-                contains various links with information
+
               </li>
             </ul>
           </div>
@@ -72,8 +77,9 @@ export default class AboutUsPage extends Component {
           </div>
           {/* broken strides end  */}
           <div className="col-lg-4 col-12 my-3">
-            <h1>{"<Media>"}</h1>
-            <ul>
+            <h1 className="sub-title">Media</h1>
+            <hr className="tiny-hr"></hr>
+            <ul className="d-link">
               <li>
                 <a href="https://unicornriot.ninja/">Unicorn Riot</a>
               </li>
